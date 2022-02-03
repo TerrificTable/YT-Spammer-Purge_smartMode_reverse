@@ -2,6 +2,8 @@
 He encoded everything with base85 and imported it as base64 (smart)
 These are just some (or all idk) blacklisted words, emojis, usernames and... idk what the fuck the regex.compile thingy is (if anyone knows pls make an issue or write me on discord TerrificTable55#6998)
 
+(i just copy pasted stuff and added print())
+
 Output:
 ```
 ----------------WORDS----------------
